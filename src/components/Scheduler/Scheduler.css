@@ -1,0 +1,58 @@
+.scheduler-container {
+    height: calc(100vh);
+    width: 900px;
+    margin: 0 auto;
+}
+.dhx_cal_navline .dhx_cal_date{
+    background-color: transparent;
+    text-align: right;
+    font-size: 14px;
+    color:rgba(74, 71, 71, 0.75);
+}
+.time-format-chkbx{
+    font-size: 14px !important;
+}
+.tool-bar{
+    text-align: right !important;
+  padding-right: 100px !important;
+}
+.dhx_cal_navline.dhx_cal_navline_flex .dhx_cal_tab{
+    box-shadow: -1px 0 0 #b5b5b5 !important;
+    border: 1px solid #b5b5b5 !important;
+}
+.dhx_cal_tab.active{
+    background-color: #c9ac0e !important;
+    color: #fff !important;
+    border: 1px solid #c9ac0e !important;
+}
+.dhx_cal_tab, .dhx_cal_tab.active{
+    border: 1px solid #c9ac0e !important;
+}
+.dhx_cal_tab{
+    color: rgba(0,0,0,.54) !important;
+}
+.dhx_cal_light_wide .dhx_cal_lsection,
+.dhx_section_time select.dhx_lightbox_year_select,
+.dhx_section_time select.dhx_lightbox_month_select,
+.dhx_section_time select.dhx_lightbox_time_select{
+    font-size: 12px !important;
+}
+.dhx_cal_ltitle,
+.dhx_save_btn_set{
+    background-color: #031456 !important;
+}
+.dhx_btn_set, .dhx_cancel_btn_set {
+    color: #fff !important;
+    background: #3b3b3b !important;
+  }
+  .dhx_cal_event .dhx_body, 
+  .dhx_cal_event .dhx_footer, 
+  .dhx_cal_event .dhx_header,
+   .dhx_cal_event .dhx_title{
+    background-color: #456070 !important;
+    color: #fffafa !important;
+   }
+   .dhx_cal_container,
+   .dhx_scale_bar{
+    font-size: 12px;
+   }
